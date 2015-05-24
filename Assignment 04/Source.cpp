@@ -7,7 +7,8 @@ using namespace std;
 int main()
 {
 
-	printf("Hello World!\n\n");
+	printf("Hola Mundo!\n\n");
+	
 
 	system("PAUSE");
 }
